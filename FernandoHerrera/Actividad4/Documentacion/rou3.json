@@ -1,0 +1,72 @@
+[
+  {
+    "PassengerID": 1,
+    "Nombre": "MIGUEL ANGEL",
+    "Apellido": "GOMEZ",
+    "Edad": 25,
+    "Correo": "miguel.angel.gomez.garcia@gmail.com"
+  },
+  {
+    "PassengerID": 2,
+    "Nombre": "JOSE FRANCISCO",
+    "Apellido": "CURIEL",
+    "Edad": 27,
+    "Correo": "jose.francisco.curiel.franco@gmail.com"
+  },
+  {
+    "PassengerID": 3,
+    "Nombre": "JESUS ANTONIO",
+    "Apellido": "VERDUZCO",
+    "Edad": 26,
+    "Correo": "jesus.antonio.verduzco.saldaña@gmail.com"
+  },
+  {
+    "PassengerID": 4,
+    "Nombre": "ALEJANDRA",
+    "Apellido": "VARELA",
+    "Edad": 29,
+    "Correo": "alejandra.varela.gutierrez@gmail.com"
+  },
+  {
+    "PassengerID": 5,
+    "Nombre": "RICARDO",
+    "Apellido": "ROSAS",
+    "Edad": 25,
+    "Correo": "ricardo.rosas.melendez@gmail.com"
+  },
+  {
+    "PassengerID": 6,
+    "Nombre": "DANIEL",
+    "Apellido": "VALDeS",
+    "Edad": 28,
+    "Correo": "daniel.valdes.villa@gmail.com"
+  },
+  {
+    "PassengerID": 7,
+    "Nombre": "JORGE",
+    "Apellido": "VANEGAS",
+    "Edad": 26,
+    "Correo": "jorge.vanegas.acevedo@gmail.com"
+  },
+  {
+    "PassengerID": 8,
+    "Nombre": "CAMILA",
+    "Apellido": "VIVEROS",
+    "Edad": 29,
+    "Correo": "camila.viveros.fauser@gmail.com"
+  },
+  {
+    "PassengerID": 9,
+    "Nombre": "JAVIER",
+    "Apellido": "ARANDA",
+    "Edad": 25,
+    "Correo": "javier.aranda.barajas@gmail.com"
+  },
+  {
+    "PassengerID": 10,
+    "Nombre": "RAUL",
+    "Apellido": "ESPINOSA",
+    "Edad": 28,
+    "Correo": "raul.espinosa.cisneros@gmail.com"
+  }
+]

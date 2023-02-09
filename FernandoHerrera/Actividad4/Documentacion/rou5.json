@@ -1,0 +1,177 @@
+[
+  {
+    "PassengerID": 1,
+    "Sex": "male",
+    "Age": "22",
+    "Ticket": "A/5 21171",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 2,
+    "Sex": "female",
+    "Age": "38",
+    "Ticket": "PC 17599",
+    "Cabin": "C85"
+  },
+  {
+    "PassengerID": 3,
+    "Sex": "female",
+    "Age": "26",
+    "Ticket": "STON/O2. 3101282",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 4,
+    "Sex": "female",
+    "Age": "35",
+    "Ticket": "113803",
+    "Cabin": "C123"
+  },
+  {
+    "PassengerID": 5,
+    "Sex": "male",
+    "Age": "35",
+    "Ticket": "373450",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 6,
+    "Sex": "male",
+    "Age": "",
+    "Ticket": "330877",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 7,
+    "Sex": "male",
+    "Age": "54",
+    "Ticket": "17463",
+    "Cabin": "E46"
+  },
+  {
+    "PassengerID": 8,
+    "Sex": "male",
+    "Age": "2",
+    "Ticket": "349909",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 9,
+    "Sex": "female",
+    "Age": "27",
+    "Ticket": "347742",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 10,
+    "Sex": "female",
+    "Age": "14",
+    "Ticket": "237736",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 11,
+    "Sex": "female",
+    "Age": "4",
+    "Ticket": "PP 9549",
+    "Cabin": "G6"
+  },
+  {
+    "PassengerID": 12,
+    "Sex": "female",
+    "Age": "58",
+    "Ticket": "113783",
+    "Cabin": "C103"
+  },
+  {
+    "PassengerID": 13,
+    "Sex": "male",
+    "Age": "20",
+    "Ticket": "A/5. 2151",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 14,
+    "Sex": "male",
+    "Age": "39",
+    "Ticket": "347082",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 15,
+    "Sex": "female",
+    "Age": "14",
+    "Ticket": "350406",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 16,
+    "Sex": "female",
+    "Age": "55",
+    "Ticket": "248706",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 17,
+    "Sex": "male",
+    "Age": "2",
+    "Ticket": "382652",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 18,
+    "Sex": "male",
+    "Age": "",
+    "Ticket": "244373",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 19,
+    "Sex": "female",
+    "Age": "31",
+    "Ticket": "345763",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 20,
+    "Sex": "female",
+    "Age": "",
+    "Ticket": "2649",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 21,
+    "Sex": "male",
+    "Age": "35",
+    "Ticket": "239865",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 22,
+    "Sex": "male",
+    "Age": "34",
+    "Ticket": "248698",
+    "Cabin": "D56"
+  },
+  {
+    "PassengerID": 23,
+    "Sex": "female",
+    "Age": "15",
+    "Ticket": "330923",
+    "Cabin": ""
+  },
+  {
+    "PassengerID": 24,
+    "Sex": "male",
+    "Age": "28",
+    "Ticket": "113788",
+    "Cabin": "A6"
+  },
+  {
+    "PassengerID": 25,
+    "Sex": "female",
+    "Age": "8",
+    "Ticket": "349909",
+    "Cabin": ""
+  }
+]

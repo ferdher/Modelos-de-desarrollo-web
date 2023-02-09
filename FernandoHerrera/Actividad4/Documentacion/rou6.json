@@ -1,0 +1,127 @@
+[
+  {
+    "Sex": "male",
+    "Ticket": "A/5 21171",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "PC 17599",
+    "Embarked": "C"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "STON/O2. 3101282",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "113803",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "373450",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "330877",
+    "Embarked": "Q"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "17463",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "349909",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "347742",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "237736",
+    "Embarked": "C"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "PP 9549",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "113783",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "A/5. 2151",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "347082",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "350406",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "248706",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "382652",
+    "Embarked": "Q"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "244373",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "345763",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "2649",
+    "Embarked": "C"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "239865",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "248698",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "330923",
+    "Embarked": "Q"
+  },
+  {
+    "Sex": "male",
+    "Ticket": "113788",
+    "Embarked": "S"
+  },
+  {
+    "Sex": "female",
+    "Ticket": "349909",
+    "Embarked": "S"
+  }
+]

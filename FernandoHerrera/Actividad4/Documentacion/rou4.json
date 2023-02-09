@@ -1,0 +1,152 @@
+[
+  {
+    "PassengerID": 1,
+    "Name": "Braund, Mr. Owen Harris",
+    "Sex": "male",
+    "Age": "22"
+  },
+  {
+    "PassengerID": 2,
+    "Name": "Cumings, Mrs. John Bradley (Florence Briggs Thayer)",
+    "Sex": "female",
+    "Age": "38"
+  },
+  {
+    "PassengerID": 3,
+    "Name": "Heikkinen, Miss. Laina",
+    "Sex": "female",
+    "Age": "26"
+  },
+  {
+    "PassengerID": 4,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex": "female",
+    "Age": "35"
+  },
+  {
+    "PassengerID": 5,
+    "Name": "Allen, Mr. William Henry",
+    "Sex": "male",
+    "Age": "35"
+  },
+  {
+    "PassengerID": 6,
+    "Name": "Moran, Mr. James",
+    "Sex": "male",
+    "Age": ""
+  },
+  {
+    "PassengerID": 7,
+    "Name": "McCarthy, Mr. Timothy J",
+    "Sex": "male",
+    "Age": "54"
+  },
+  {
+    "PassengerID": 8,
+    "Name": "Palsson, Master. Gosta Leonard",
+    "Sex": "male",
+    "Age": "2"
+  },
+  {
+    "PassengerID": 9,
+    "Name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "Sex": "female",
+    "Age": "27"
+  },
+  {
+    "PassengerID": 10,
+    "Name": "Nasser, Mrs. Nicholas (Adele Achem)",
+    "Sex": "female",
+    "Age": "14"
+  },
+  {
+    "PassengerID": 11,
+    "Name": "Sandstrom, Miss. Marguerite Rut",
+    "Sex": "female",
+    "Age": "4"
+  },
+  {
+    "PassengerID": 12,
+    "Name": "Bonnell, Miss. Elizabeth",
+    "Sex": "female",
+    "Age": "58"
+  },
+  {
+    "PassengerID": 13,
+    "Name": "Saundercock, Mr. William Henry",
+    "Sex": "male",
+    "Age": "20"
+  },
+  {
+    "PassengerID": 14,
+    "Name": "Andersson, Mr. Anders Johan",
+    "Sex": "male",
+    "Age": "39"
+  },
+  {
+    "PassengerID": 15,
+    "Name": "Vestrom, Miss. Hulda Amanda Adolfina",
+    "Sex": "female",
+    "Age": "14"
+  },
+  {
+    "PassengerID": 16,
+    "Name": "Hewlett, Mrs. (Mary D Kingcome)",
+    "Sex": "female",
+    "Age": "55"
+  },
+  {
+    "PassengerID": 17,
+    "Name": "Rice, Master. Eugene",
+    "Sex": "male",
+    "Age": "2"
+  },
+  {
+    "PassengerID": 18,
+    "Name": "Williams, Mr. Charles Eugene",
+    "Sex": "male",
+    "Age": ""
+  },
+  {
+    "PassengerID": 19,
+    "Name": "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",
+    "Sex": "female",
+    "Age": "31"
+  },
+  {
+    "PassengerID": 20,
+    "Name": "Masselmani, Mrs. Fatima",
+    "Sex": "female",
+    "Age": ""
+  },
+  {
+    "PassengerID": 21,
+    "Name": "Fynney, Mr. Joseph J",
+    "Sex": "male",
+    "Age": "35"
+  },
+  {
+    "PassengerID": 22,
+    "Name": "Beesley, Mr. Lawrence",
+    "Sex": "male",
+    "Age": "34"
+  },
+  {
+    "PassengerID": 23,
+    "Name": "McGowan, Miss. Anna 'Annie'",
+    "Sex": "female",
+    "Age": "15"
+  },
+  {
+    "PassengerID": 24,
+    "Name": "Sloper, Mr. William Thompson",
+    "Sex": "male",
+    "Age": "28"
+  },
+  {
+    "PassengerID": 25,
+    "Name": "Palsson, Miss. Torborg Danira",
+    "Sex": "female",
+    "Age": "8"
+  }
+]
