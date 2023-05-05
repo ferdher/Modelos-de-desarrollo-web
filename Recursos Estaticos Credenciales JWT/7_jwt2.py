@@ -358,7 +358,6 @@ async def me(user:User= Depends (current_user)): #Crea un user de tipo User que 
     username=user.username
     
     url="static/"+username+".jpg"
-#    return FileResponse(url)
 
     try:
         open(url)
