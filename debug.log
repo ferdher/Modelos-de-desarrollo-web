@@ -1,0 +1,567 @@
+2023-04-24 23:02:35.5617|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-24 23:02:36.3719|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-24 23:02:38.8401|Information|Drive added: C:\, Fixed
+2023-04-24 23:02:40.1912|Information|Drive added: D:\, Fixed
+2023-04-24 23:02:40.6634|Information|Drive added: D:\
+2023-04-24 23:02:46.3887|Information|SIDELOAD: Checking for updates...
+2023-04-24 23:02:47.9709|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-24 23:02:47.9717|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-24 23:02:47.9725|Information|SIDELOAD: Current Version: 2.4.66.0
+2023-04-24 23:02:47.9731|Information|SIDELOAD: Remote Version: 2.4.66.0
+2023-04-24 23:02:47.9792|Warning|SIDELOAD: Update not found.
+2023-04-24 23:03:14.2515|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:14.2527|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:14.3579|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:14.5029|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:14.6227|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:14.6471|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:56.4066|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:56.7622|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:56.9272|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:56.9387|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:57.0322|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:03:57.0469|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:10.9796|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:11.1842|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:11.2585|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:11.3400|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:11.3600|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:11.6084|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:53.9642|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:54.1398|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:54.3674|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:54.4062|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:54.6392|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-24 23:04:54.7076|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 12:48:08.3828|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-26 12:48:09.4842|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 12:48:12.8328|Information|Drive added: C:\, Fixed
+2023-04-26 12:48:14.8706|Information|Drive added: D:\, Fixed
+2023-04-26 12:48:15.0658|Information|Drive added: E:\, Removable
+2023-04-26 12:48:15.2084|Information|Drive added: F:\, Removable
+2023-04-26 12:48:15.7215|Information|Drive added: E:\
+2023-04-26 12:48:15.8110|Information|Drive added: F:\
+2023-04-26 12:48:16.0414|Information|Drive added: D:\
+2023-04-26 12:48:24.8417|Information|SIDELOAD: Checking for updates...
+2023-04-26 12:48:26.6777|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 12:48:26.6783|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 12:48:26.6787|Information|SIDELOAD: Current Version: 2.4.66.0
+2023-04-26 12:48:26.6791|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 12:48:26.6795|Information|SIDELOAD: Update found.
+2023-04-26 12:48:26.6799|Information|SIDELOAD: Starting background download.
+2023-04-26 12:49:20.2661|Information|Download time taken: 00:00:53
+2023-04-26 12:49:20.6652|Information|FilesLauncher updated.
+2023-04-26 12:50:35.7896|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-26 12:50:36.8172|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 12:50:39.4540|Information|Drive added: C:\, Fixed
+2023-04-26 12:50:41.5434|Information|Drive added: D:\, Fixed
+2023-04-26 12:50:41.7487|Information|Drive added: E:\, Removable
+2023-04-26 12:50:41.9561|Information|Drive added: F:\, Removable
+2023-04-26 12:50:42.3754|Information|Drive added: E:\
+2023-04-26 12:50:42.4211|Information|Drive added: F:\
+2023-04-26 12:50:42.4581|Information|Drive added: D:\
+2023-04-26 12:51:03.6886|Information|SIDELOAD: Checking for updates...
+2023-04-26 12:51:05.2381|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 12:51:05.2388|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 12:51:05.2394|Information|SIDELOAD: Current Version: 2.4.66.0
+2023-04-26 12:51:05.2399|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 12:51:05.2405|Information|SIDELOAD: Update found.
+2023-04-26 12:51:05.2411|Information|SIDELOAD: Starting background download.
+2023-04-26 12:51:31.7490|Information|Download time taken: 00:00:26
+2023-04-26 12:54:04.3327|Information|Drive removed: \\?\STORAGE#Volume#_??_USBSTOR#Disk&Ven_Teclast&Prod_CoolFlash&Rev_1100#AA00000000016603&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-26 12:54:04.6439|Information|Drive removed: E:
+2023-04-26 12:57:42.3564|Information|Running on ARM: False
+2023-04-26 12:58:01.8166|Information|Drive removed: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-26 12:58:02.7917|Information|Drive removed: F:
+2023-04-26 12:58:03.2116|Information|Drive added: E:\
+2023-04-26 12:58:04.1863|Information|Drive added: E:\
+2023-04-26 12:58:16.1370|Information|Register for restart: 0
+2023-04-26 12:58:47.2746|Information|App launched. Launch args type: IInspectable
+2023-04-26 12:58:48.1293|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 12:58:53.1348|Information|Drive removed: E:
+2023-04-26 12:58:53.3176|Information|Drive added: C:\, Fixed
+2023-04-26 12:58:53.5711|Information|Drive added: D:\, Fixed
+2023-04-26 12:58:53.6486|Warning|NotFound: Attempting to add the device, E:\, failed at the StorageFolder initialization step. This device will be ignored.
+2023-04-26 12:58:54.2149|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#_??_USBSTOR#Disk&Ven_Teclast&Prod_CoolFlash&Rev_1100#AA00000000016603&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-26 12:58:54.2582|Information|Drive added: D:\
+2023-04-26 12:59:01.9502|Information|SIDELOAD: Checking for updates...
+2023-04-26 12:59:03.1579|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 12:59:03.1586|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 12:59:03.1593|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-26 12:59:03.1598|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 12:59:03.1609|Warning|SIDELOAD: Update not found.
+2023-04-26 13:16:46.4060|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:16:46.4273|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:16:46.5408|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:16:46.6943|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:16:46.7994|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:16:46.8598|Warning|System.ComponentModel.Win32Exception (15): 系统找不到指定的驱动器。
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 13:18:58.7556|Information|Drive added: E:\
+2023-04-26 21:55:14.5311|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-26 21:55:15.3936|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 21:55:18.1510|Information|Drive added: C:\, Fixed
+2023-04-26 21:55:19.7601|Information|Drive added: D:\, Fixed
+2023-04-26 21:55:20.0055|Information|Drive added: E:\, Removable
+2023-04-26 21:55:20.4279|Information|Drive added: D:\
+2023-04-26 21:55:25.5383|Information|SIDELOAD: Checking for updates...
+2023-04-26 21:55:27.1295|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 21:55:27.1303|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 21:55:27.1311|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-26 21:55:27.1317|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 21:55:27.1384|Warning|SIDELOAD: Update not found.
+2023-04-26 21:56:11.3957|Information|Running on ARM: False
+2023-04-26 21:57:08.8332|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-26 21:57:09.1723|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 21:57:12.0711|Information|Drive added: C:\, Fixed
+2023-04-26 21:57:12.1853|Information|Drive added: D:\, Fixed
+2023-04-26 21:57:12.3057|Information|Drive added: E:\, Removable
+2023-04-26 21:57:12.6938|Information|Drive added: D:\
+2023-04-26 21:57:18.2469|Information|SIDELOAD: Checking for updates...
+2023-04-26 21:57:19.6702|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 21:57:19.6709|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 21:57:19.6717|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-26 21:57:19.6724|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 21:57:19.6791|Warning|SIDELOAD: Update not found.
+2023-04-26 21:57:19.6811|Information|Drive removed: E:
+2023-04-26 21:57:45.1408|Information|Drive added: E:\
+2023-04-26 21:57:45.1578|Information|Drive removed: \\?\STORAGE#Volume#{e6f7c1d3-e3ec-11ed-a8a2-c83dd46a662c}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-26 21:57:45.8099|Information|Drive added: E:\
+2023-04-26 21:57:46.7413|Information|Drive added: E:\
+2023-04-26 21:57:48.0830|Information|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-04-26 21:57:49.1602|Information|Running on ARM: False
+2023-04-26 22:34:35.5230|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-26 22:34:36.5534|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 22:34:50.0813|Information|Drive added: C:\, Fixed
+2023-04-26 22:34:53.0175|Information|Drive added: D:\, Fixed
+2023-04-26 22:34:53.3129|Information|Drive added: E:\, Removable
+2023-04-26 22:34:54.0824|Information|Drive added: E:\
+2023-04-26 22:34:54.1336|Information|Drive added: D:\
+2023-04-26 22:35:06.5644|Information|SIDELOAD: Checking for updates...
+2023-04-26 22:35:08.6712|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-26 22:35:08.6722|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-26 22:35:08.6731|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-26 22:35:08.6739|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-26 22:35:08.7402|Warning|SIDELOAD: Update not found.
+2023-04-26 22:45:33.5849|Information|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-04-26 22:45:35.5837|Information|Running on ARM: False
+2023-04-26 22:50:50.8638|Information|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-04-26 22:52:08.2493|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-26 22:52:09.1915|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 22:52:12.3117|Information|Drive added: C:\, Fixed
+2023-04-26 22:52:20.9717|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-26 22:52:21.7399|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-26 22:52:25.6386|Information|Drive added: C:\, Fixed
+2023-04-27 21:24:17.3062|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-27 21:24:18.3802|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-27 21:24:21.9264|Information|Drive added: C:\, Fixed
+2023-04-27 21:24:23.5998|Information|Drive added: D:\, Fixed
+2023-04-27 21:24:23.7747|Information|Drive added: E:\, Removable
+2023-04-27 21:24:24.4262|Information|Drive added: D:\
+2023-04-27 21:24:24.4729|Information|Drive added: E:\
+2023-04-27 21:24:30.9519|Information|Running on ARM: False
+2023-04-27 21:24:31.8070|Information|SIDELOAD: Checking for updates...
+2023-04-27 21:24:34.9714|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-27 21:24:34.9723|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-27 21:24:34.9733|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-27 21:24:34.9740|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-27 21:24:34.9867|Warning|SIDELOAD: Update not found.
+2023-04-27 21:30:55.0306|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-27 21:30:56.1912|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-27 21:30:58.6998|Information|Drive added: C:\, Fixed
+2023-04-27 21:31:00.3400|Information|Drive added: D:\, Fixed
+2023-04-27 21:31:00.4909|Information|Drive added: E:\, Removable
+2023-04-27 21:31:00.9711|Information|Drive added: E:\
+2023-04-27 21:31:00.9941|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:31:01.0315|Information|Drive added: D:\
+2023-04-27 21:31:06.1137|Information|SIDELOAD: Checking for updates...
+2023-04-27 21:31:07.5081|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-27 21:31:07.5090|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-27 21:31:07.5098|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-27 21:31:07.5104|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-27 21:31:07.5115|Warning|SIDELOAD: Update not found.
+2023-04-27 21:31:43.3398|Information|Running on ARM: False
+2023-04-27 21:37:31.4910|Information|Drive removed: \\?\STORAGE#Volume#_??_USBSTOR#Disk&Ven_Teclast&Prod_CoolFlash&Rev_1100#AA00000000016603&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:37:31.5055|Information|Drive removed: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:37:32.5739|Information|Drive removed: E:
+2023-04-27 21:57:27.7523|Information|Drive added: E:\
+2023-04-27 21:57:27.7741|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:57:28.2997|Information|Drive added: E:\
+2023-04-27 21:57:55.3276|Information|Drive removed: \\?\STORAGE#Volume#_??_USBSTOR#Disk&Ven_Teclast&Prod_CoolFlash&Rev_1100#AA00000000016603&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:57:55.4080|Information|Drive removed: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-04-27 21:57:55.4907|Information|Drive removed: E:
+2023-04-27 21:59:38.3741|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-27 21:59:40.5618|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-27 21:59:44.8035|Information|Drive added: C:\, Fixed
+2023-04-27 21:59:45.0467|Information|Drive added: D:\, Fixed
+2023-04-27 21:59:45.2008|Information|Drive added: E:\, Removable
+2023-04-27 21:59:45.2829|Warning|Unauthorized: Attempting to add the device, F:\, failed at the StorageFolder initialization step. This device will be ignored.
+2023-04-27 21:59:45.7132|Information|Drive added: F:\
+2023-04-27 21:59:45.7599|Information|Drive added: D:\
+2023-04-27 21:59:45.8870|Information|Drive added: E:\
+2023-04-27 21:59:47.8446|Information|Running on ARM: False
+2023-04-27 21:59:51.3914|Information|SIDELOAD: Checking for updates...
+2023-04-27 21:59:55.4191|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-27 21:59:55.4204|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-27 21:59:55.4213|Information|SIDELOAD: Current Version: 2.4.69.0
+2023-04-27 21:59:55.4219|Information|SIDELOAD: Remote Version: 2.4.69.0
+2023-04-27 21:59:55.4233|Warning|SIDELOAD: Update not found.
+2023-04-28 18:03:30.0060|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-28 18:03:30.9579|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-28 18:03:34.2324|Information|Drive added: C:\, Fixed
+2023-04-28 18:03:35.9933|Information|Drive added: D:\, Fixed
+2023-04-28 18:03:36.5199|Information|Drive added: D:\
+2023-04-28 18:03:41.7392|Information|SIDELOAD: Checking for updates...
+2023-04-28 18:03:42.8640|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-28 18:03:42.8650|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-28 18:03:42.8660|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-04-28 18:03:42.8669|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-04-28 18:03:42.8740|Warning|SIDELOAD: Update not found.
+2023-04-30 17:02:35.7969|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-30 17:02:37.1707|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-30 17:02:45.8749|Information|Drive added: C:\, Fixed
+2023-04-30 17:02:46.1027|Information|Drive added: D:\, Fixed
+2023-04-30 17:02:47.3438|Information|Drive added: D:\
+2023-04-30 17:02:59.3397|Information|SIDELOAD: Checking for updates...
+2023-04-30 17:03:00.4011|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-30 17:03:00.4021|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-30 17:03:00.4035|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-04-30 17:03:00.4045|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-04-30 17:03:00.4184|Warning|SIDELOAD: Update not found.
+2023-04-30 17:07:57.7195|Information|Running on ARM: False
+2023-04-30 17:10:18.0792|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-30 17:10:19.2242|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-04-30 17:10:22.4756|Information|Drive added: C:\, Fixed
+2023-04-30 17:10:24.2878|Information|Drive added: D:\, Fixed
+2023-04-30 17:10:24.7865|Information|Drive added: D:\
+2023-04-30 17:10:31.6444|Information|SIDELOAD: Checking for updates...
+2023-04-30 17:10:32.7583|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-04-30 17:10:32.7590|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-30 17:10:32.7595|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-04-30 17:10:32.7601|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-04-30 17:10:32.7769|Warning|SIDELOAD: Update not found.
+2023-04-30 17:11:57.5426|Information|Running on ARM: False
+2023-05-01 15:05:54.3112|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-01 15:05:55.5592|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:05:58.6616|Information|Drive added: C:\, Fixed
+2023-05-01 15:06:00.4082|Information|Drive added: D:\, Fixed
+2023-05-01 15:06:00.7671|Information|Drive added: E:\, Removable
+2023-05-01 15:06:01.1924|Information|Drive added: E:\
+2023-05-01 15:06:01.2248|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:06:01.2649|Information|Drive added: D:\
+2023-05-01 15:06:11.6309|Information|SIDELOAD: Checking for updates...
+2023-05-01 15:06:13.6555|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 15:06:13.6564|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 15:06:13.6576|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 15:06:13.6593|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 15:06:13.6711|Warning|SIDELOAD: Update not found.
+2023-05-01 15:06:15.4018|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-05-01 15:06:16.8622|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:06:26.4353|Information|Drive added: C:\, Fixed
+2023-05-01 15:06:33.0541|Information|Running on ARM: False
+2023-05-01 15:06:39.4416|Information|Drive added: D:\, Fixed
+2023-05-01 15:06:41.0734|Information|Drive added: E:\, Removable
+2023-05-01 15:06:57.3625|Information|Drive added: E:\
+2023-05-01 15:06:57.3921|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:06:57.4371|Information|Drive added: D:\
+2023-05-01 15:07:16.3857|Information|SIDELOAD: Checking for updates...
+2023-05-01 15:07:17.8551|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 15:07:17.8558|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 15:07:17.8565|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 15:07:17.8572|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 15:07:17.8586|Warning|SIDELOAD: Update not found.
+2023-05-01 15:09:48.7206|Information|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at ABI.Windows.ApplicationModel.DataTransfer.IClipboardStaticsMethods.Flush(IObjectReference _obj)
+   at Files.Shared.Extensions.SafetyExtensions.IgnoreExceptions(Action action, ILogger logger)
+2023-05-01 15:40:52.1855|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-05-01 15:40:53.0234|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:40:57.5004|Information|Drive added: C:\, Fixed
+2023-05-01 15:40:57.6254|Information|Drive added: D:\, Fixed
+2023-05-01 15:40:57.8641|Information|Drive added: E:\, Removable
+2023-05-01 15:40:58.3061|Information|Drive added: E:\
+2023-05-01 15:40:58.3344|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:40:58.3748|Information|Drive added: D:\
+2023-05-01 15:41:04.2783|Information|SIDELOAD: Checking for updates...
+2023-05-01 15:41:05.6771|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 15:41:05.6828|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 15:41:05.6838|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 15:41:05.6860|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 15:41:05.6884|Warning|SIDELOAD: Update not found.
+2023-05-01 15:51:05.5334|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-01 15:51:06.0040|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:51:09.4150|Information|Drive added: C:\, Fixed
+2023-05-01 15:51:09.5257|Information|Drive added: D:\, Fixed
+2023-05-01 15:51:09.7011|Information|Drive added: E:\, Removable
+2023-05-01 15:51:10.1001|Information|Drive added: E:\
+2023-05-01 15:51:10.2222|Warning|System.UnauthorizedAccessException: Attempting to add the device, Teclast CoolFlash, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:51:10.2512|Information|Drive added: D:\
+2023-05-01 15:51:14.4557|Information|SIDELOAD: Checking for updates...
+2023-05-01 15:51:15.9051|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 15:51:15.9058|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 15:51:15.9064|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 15:51:15.9069|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 15:51:15.9080|Warning|SIDELOAD: Update not found.
+2023-05-01 15:51:39.6683|Information|Running on ARM: False
+2023-05-01 15:52:12.0788|Information|Drive removed: \\?\STORAGE#Volume#_??_USBSTOR#Disk&Ven_Teclast&Prod_CoolFlash&Rev_1100#AA00000000016603&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:52:12.0864|Information|Drive removed: \\?\STORAGE#Volume#{e6f7ba48-e3ec-11ed-a8a2-c83dd46a662c}#00000003A7800000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 15:52:12.3332|Information|Drive removed: E:
+2023-05-01 15:54:15.0727|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-05-01 15:54:15.4602|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:54:18.9216|Information|Drive added: C:\, Fixed
+2023-05-01 15:54:19.0586|Information|Drive added: D:\, Fixed
+2023-05-01 15:54:19.1433|Information|Drive added: E:\, Fixed
+2023-05-01 15:54:19.2522|Information|Drive added: F:\, Fixed
+2023-05-01 15:54:19.6495|Information|Drive added: D:\
+2023-05-01 15:54:19.6955|Information|Drive added: E:\
+2023-05-01 15:54:19.7403|Information|Drive added: F:\
+2023-05-01 15:54:21.7777|Information|Running on ARM: False
+2023-05-01 15:55:26.7372|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-05-01 15:55:27.1499|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 15:55:30.2267|Information|Drive added: C:\, Fixed
+2023-05-01 15:55:30.4119|Information|Drive added: D:\, Fixed
+2023-05-01 15:55:30.5241|Information|Drive added: E:\, Fixed
+2023-05-01 15:55:30.6421|Information|Drive added: F:\, Fixed
+2023-05-01 15:55:31.0429|Information|Drive added: D:\
+2023-05-01 15:55:31.0860|Information|Drive added: E:\
+2023-05-01 15:55:31.1275|Information|Drive added: F:\
+2023-05-01 15:55:40.0371|Information|SIDELOAD: Checking for updates...
+2023-05-01 15:55:41.6166|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 15:55:41.6175|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 15:55:41.6183|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 15:55:41.6192|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 15:55:41.6308|Warning|SIDELOAD: Update not found.
+2023-05-01 16:06:36.0274|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-01 16:06:36.4507|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-05-01 16:06:37.0411|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 16:06:38.0506|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-01 16:06:42.4710|Information|Drive added: C:\, Fixed
+2023-05-01 16:06:44.3416|Information|Drive added: D:\, Fixed
+2023-05-01 16:06:44.6125|Information|Drive added: E:\, Fixed
+2023-05-01 16:06:44.7333|Information|Drive added: C:\, Fixed
+2023-05-01 16:06:45.0724|Warning|System.UnauthorizedAccessException: Attempting to add the device, JMS579, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{64eef6fa-e7ed-11ed-a8a9-c83dd46a662c}#0000003B9C656000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 16:06:45.1133|Information|Drive added: D:\
+2023-05-01 16:06:45.1604|Information|Drive added: E:\
+2023-05-01 16:06:45.6209|Information|Drive added: D:\, Fixed
+2023-05-01 16:06:45.8553|Information|Drive added: E:\, Fixed
+2023-05-01 16:06:48.2875|Warning|System.UnauthorizedAccessException: Attempting to add the device, JMS579, failed at the StorageFolder initialization step. This device will be ignored. Device ID: \\?\STORAGE#Volume#{64eef6fa-e7ed-11ed-a8a9-c83dd46a662c}#0000003B9C656000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+2023-05-01 16:06:48.5814|Information|Drive added: D:\
+2023-05-01 16:06:48.7860|Information|Drive added: E:\
+2023-05-01 16:06:51.9499|Information|SIDELOAD: Checking for updates...
+2023-05-01 16:07:07.8676|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-01 16:07:07.8686|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-01 16:07:07.8695|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-01 16:07:07.8708|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-01 16:07:07.8731|Warning|SIDELOAD: Update not found.
+2023-05-01 16:48:39.2637|Information|Running on ARM: False
+2023-05-02 09:09:39.4774|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 09:09:40.2917|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 09:09:44.5561|Information|Drive added: C:\, Fixed
+2023-05-02 09:09:44.6835|Information|Drive added: D:\, Fixed
+2023-05-02 09:09:45.0383|Information|Drive added: D:\
+2023-05-02 09:09:51.5500|Information|SIDELOAD: Checking for updates...
+2023-05-02 09:09:52.5242|Information|Running on ARM: False
+2023-05-02 09:09:53.2995|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 09:09:53.3004|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 09:09:53.3013|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 09:09:53.3022|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 09:09:53.3113|Warning|SIDELOAD: Update not found.
+2023-05-02 09:32:48.0675|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 09:32:48.9475|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 09:32:53.6786|Information|Drive added: C:\, Fixed
+2023-05-02 09:32:53.8273|Information|Drive added: D:\, Fixed
+2023-05-02 09:32:54.2896|Information|Drive added: D:\
+2023-05-02 09:32:59.6380|Information|SIDELOAD: Checking for updates...
+2023-05-02 09:33:00.8072|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 09:33:00.8082|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 09:33:00.8092|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 09:33:00.8102|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 09:33:00.8177|Warning|SIDELOAD: Update not found.
+2023-05-02 09:33:01.5507|Information|Running on ARM: False
+2023-05-02 09:34:21.6554|Information|System.ComponentModel.Win32Exception (2): An error occurred trying to start process 'D:\USB Raptor Config Backup' with working directory 'C:\WINDOWS\system32'. 系统找不到指定的文件。
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at Files.App.Shell.LaunchHelper.<>c__DisplayClass3_0.<<HandleApplicationLaunch>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Files.App.Shell.Win32API.<>c__DisplayClass3_0`1.<<StartSTATask>b__0>d.MoveNext()
+2023-05-02 09:34:22.8073|Information|System.ComponentModel.Win32Exception (2): An error occurred trying to start process 'D:\USB Raptor Config Backup' with working directory 'C:\WINDOWS\system32'. 系统找不到指定的文件。
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at Files.App.Shell.LaunchHelper.<>c__DisplayClass3_0.<<HandleApplicationLaunch>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Files.App.Shell.Win32API.<>c__DisplayClass3_0`1.<<StartSTATask>b__0>d.MoveNext()
+2023-05-02 09:34:23.5331|Information|System.ComponentModel.Win32Exception (2): An error occurred trying to start process 'D:\USB Raptor Config Backup' with working directory 'C:\WINDOWS\system32'. 系统找不到指定的文件。
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at Files.App.Shell.LaunchHelper.<>c__DisplayClass3_0.<<HandleApplicationLaunch>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Files.App.Shell.Win32API.<>c__DisplayClass3_0`1.<<StartSTATask>b__0>d.MoveNext()
+2023-05-02 09:34:24.0380|Information|System.ComponentModel.Win32Exception (2): An error occurred trying to start process 'D:\USB Raptor Config Backup' with working directory 'C:\WINDOWS\system32'. 系统找不到指定的文件。
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at Files.App.Shell.LaunchHelper.<>c__DisplayClass3_0.<<HandleApplicationLaunch>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Files.App.Shell.Win32API.<>c__DisplayClass3_0`1.<<StartSTATask>b__0>d.MoveNext()
+2023-05-02 09:38:51.1879|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 09:38:51.9216|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 09:38:54.4084|Information|Drive added: C:\, Fixed
+2023-05-02 09:38:55.8217|Information|Drive added: D:\, Fixed
+2023-05-02 09:38:56.2530|Information|Drive added: D:\
+2023-05-02 09:39:01.1483|Information|SIDELOAD: Checking for updates...
+2023-05-02 09:39:02.6226|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 09:39:02.6237|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 09:39:02.6246|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 09:39:02.6254|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 09:39:02.6350|Warning|SIDELOAD: Update not found.
+2023-05-02 09:39:02.9830|Information|Running on ARM: False
+2023-05-02 12:42:19.5492|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 12:42:20.5447|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 12:42:24.0965|Information|Drive added: C:\, Fixed
+2023-05-02 12:42:25.5329|Information|Drive added: D:\, Fixed
+2023-05-02 12:42:25.9994|Information|Drive added: D:\
+2023-05-02 12:42:31.4291|Information|SIDELOAD: Checking for updates...
+2023-05-02 12:42:34.0967|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 12:42:34.0974|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 12:42:34.0981|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 12:42:34.0993|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 12:42:34.1139|Warning|SIDELOAD: Update not found.
+2023-05-02 12:54:14.9499|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 12:54:16.1660|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 12:54:19.9073|Information|Drive added: C:\, Fixed
+2023-05-02 12:54:22.1571|Information|Drive added: D:\, Fixed
+2023-05-02 12:54:22.8623|Information|Drive added: D:\
+2023-05-02 12:54:36.1961|Information|SIDELOAD: Checking for updates...
+2023-05-02 12:54:37.3651|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 12:54:37.3659|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 12:54:37.3665|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 12:54:37.3670|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 12:54:37.3788|Warning|SIDELOAD: Update not found.
+2023-05-02 12:55:16.4511|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 12:55:16.8984|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 12:55:19.0443|Information|Drive added: C:\, Fixed
+2023-05-02 12:55:20.1025|Information|Drive added: D:\, Fixed
+2023-05-02 12:55:20.5058|Information|Drive added: D:\
+2023-05-02 12:55:28.2852|Information|SIDELOAD: Checking for updates...
+2023-05-02 12:55:29.6567|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 12:55:29.6574|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 12:55:29.6580|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 12:55:29.6586|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 12:55:29.6656|Warning|SIDELOAD: Update not found.
+2023-05-02 12:57:17.7997|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-02 12:57:18.2013|Information|Adding cloud provider "OneDrive" mapped to C:\Users\Administrator\OneDrive
+2023-05-02 12:57:20.4081|Information|Drive added: C:\, Fixed
+2023-05-02 12:57:21.3807|Information|Drive added: D:\, Fixed
+2023-05-02 12:57:21.7552|Information|Drive added: D:\
+2023-05-02 12:57:29.3524|Information|SIDELOAD: Checking for updates...
+2023-05-02 12:57:29.8245|Information|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-05-02 12:57:31.2524|Information|SIDELOAD: Current Package Name: FilesPreview
+2023-05-02 12:57:31.2535|Information|SIDELOAD: Remote Package Name: FilesPreview
+2023-05-02 12:57:31.2545|Information|SIDELOAD: Current Version: 2.4.70.0
+2023-05-02 12:57:31.2554|Information|SIDELOAD: Remote Version: 2.4.70.0
+2023-05-02 12:57:31.2631|Warning|SIDELOAD: Update not found.
+2023-05-02 12:57:34.6465|Information|Running on ARM: False

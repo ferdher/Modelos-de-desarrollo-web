@@ -1,0 +1,805 @@
+
+2023-03-31 12:29:39.8142|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-03-31 12:29:41.5811|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-03-31 12:29:41.7028|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-03-31 12:29:41.7485|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-03-31 12:29:51.4137|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-03-31 12:29:52.1791|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-03-31 12:29:52.1901|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-03-31 12:29:52.1937|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-03-31 12:29:52.1976|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.59.0
+2023-03-31 12:29:52.2003|WARN|CheckForUpdates|SIDELOAD: Update not found.
+2023-03-31 16:39:44.2446|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:39:44.4537|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:40:47.9509|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-03-31 16:40:52.6721|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-03-31 16:40:52.7130|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-03-31 16:40:52.8764|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-03-31 16:40:59.6857|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-03-31 16:41:00.9085|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-03-31 16:41:00.9136|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-03-31 16:41:00.9174|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-03-31 16:41:00.9351|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.59.0
+2023-03-31 16:41:00.9383|WARN|CheckForUpdates|SIDELOAD: Update not found.
+2023-03-31 16:41:01.0193|INFO|CheckAndUpdateFilesLauncherAsync|FilesLauncher updated.
+2023-03-31 16:41:11.8688|INFO|IsRunningOnArm|Running on ARM: False
+2023-03-31 16:41:57.8311|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:41:57.8698|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:41:58.0563|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:42:31.1831|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-31 16:42:31.4214|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-03 07:54:11.9153|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 07:54:11.9302|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 07:54:13.2430|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 07:54:13.8418|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 07:54:27.8683|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 07:54:28.4124|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 07:54:28.1857|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 07:54:29.0468|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 07:54:31.0741|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 07:54:31.3426|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 07:54:31.7483|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 07:54:31.9296|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 07:54:48.2937|WARN|AddItemToRecentList|
+	System.AggregateException: One or more errors occurred. (The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD)))
+ ---> System.Runtime.InteropServices.COMException (0x8001010E): The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD))
+   at WinRT.BaseActivationFactory._ActivateInstance[I]()
+   at Microsoft.UI.Xaml.Media.Imaging.BitmapImage..ctor()
+   at Files.App.Helpers.BitmapHelper.ToBitmapAsync(Byte[] data, Int32 decodeSize)
+   at Files.App.Filesystem.RecentItem.LoadRecentItemIcon()
+   --- End of inner exception stack trace ---
+2023-04-03 07:54:48.3329|WARN|AddItemToRecentList|
+	System.AggregateException: One or more errors occurred. (The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD)))
+ ---> System.Runtime.InteropServices.COMException (0x8001010E): The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD))
+   at WinRT.BaseActivationFactory._ActivateInstance[I]()
+   at Microsoft.UI.Xaml.Media.Imaging.BitmapImage..ctor()
+   at Files.App.Helpers.BitmapHelper.ToBitmapAsync(Byte[] data, Int32 decodeSize)
+   at Files.App.Filesystem.RecentItem.LoadRecentItemIcon()
+   --- End of inner exception stack trace ---
+2023-04-03 07:54:48.3501|WARN|AddItemToRecentList|
+	System.AggregateException: One or more errors occurred. (The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD)))
+ ---> System.Runtime.InteropServices.COMException (0x8001010E): The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD))
+   at WinRT.BaseActivationFactory._ActivateInstance[I]()
+   at Microsoft.UI.Xaml.Media.Imaging.BitmapImage..ctor()
+   at Files.App.Helpers.BitmapHelper.ToBitmapAsync(Byte[] data, Int32 decodeSize)
+   at Files.App.Filesystem.RecentItem.LoadRecentItemIcon()
+   --- End of inner exception stack trace ---
+2023-04-03 07:54:48.3541|WARN|AddItemToRecentList|
+	System.AggregateException: One or more errors occurred. (The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD)))
+ ---> System.Runtime.InteropServices.COMException (0x8001010E): The application called an interface that was marshalled for a different thread. (0x8001010E (RPC_E_WRONG_THREAD))
+   at WinRT.BaseActivationFactory._ActivateInstance[I]()
+   at Microsoft.UI.Xaml.Media.Imaging.BitmapImage..ctor()
+   at Files.App.Helpers.BitmapHelper.ToBitmapAsync(Byte[] data, Int32 decodeSize)
+   at Files.App.Filesystem.RecentItem.LoadRecentItemIcon()
+   --- End of inner exception stack trace ---
+2023-04-03 07:54:53.6650|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 07:54:54.3274|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-03 07:54:56.8023|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 07:54:56.8232|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 07:54:56.8272|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-04-03 07:54:56.8317|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 07:54:56.8358|INFO|CheckForUpdates|SIDELOAD: Update found.
+2023-04-03 07:54:56.8398|INFO|CheckForUpdates|SIDELOAD: Starting background download.
+2023-04-03 07:57:03.8840|INFO|StartBackgroundDownload|Download time taken: 00:02:07
+2023-04-03 08:02:19.9407|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 08:02:20.9039|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 08:02:20.9452|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-04-03 08:02:20.9982|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 08:02:29.2146|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 08:02:30.3804|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 08:02:30.4023|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 08:02:30.4097|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-04-03 08:02:30.4137|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 08:02:30.4178|INFO|CheckForUpdates|SIDELOAD: Update found.
+2023-04-03 08:02:30.4225|INFO|CheckForUpdates|SIDELOAD: Starting background download.
+2023-04-03 08:02:38.8731|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-03 08:02:41.5774|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:41.5809|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:42.7553|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:50.0328|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:50.0423|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:55.2241|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:55.2282|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:56.7982|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:56.8019|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:02:58.9638|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:01.1832|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:02.7018|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:02.7054|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:04.0220|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:04.0328|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:05.1164|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:05.1224|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:06.3599|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:06.3707|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:08.7383|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:08.7491|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:10.9835|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:10.9933|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:12.7506|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:12.7614|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:14.0067|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:14.0113|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:15.0295|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:23.6745|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:23.6781|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:35.9541|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:41.2810|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:42.2471|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:48.4947|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:48.5040|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:49.7856|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:49.7911|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:50.0234|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:03:50.7976|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:04:41.2638|INFO|StartBackgroundDownload|Download time taken: 00:02:10
+2023-04-03 08:49:40.9605|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-03 08:57:00.2791|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:03.9013|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:03.9119|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:05.5672|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:05.5771|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:06.0891|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:06.1090|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:10.5178|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:19.6161|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:19.6242|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 08:57:19.8257|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:23.5394|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:23.5438|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:24.0340|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:24.0448|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:26.0446|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:26.1990|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:27.2740|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:28.4094|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:28.4147|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:30.1943|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:30.7036|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:30.7080|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:33.8964|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:05:33.9009|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:06:52.0122|INFO|OnActivated|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-04-03 09:06:57.9923|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:06:57.9980|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:06.0655|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:13.6099|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-03 09:07:18.1886|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:21.9339|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:25.4955|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:25.5015|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:27.0319|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:28.6809|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:28.6846|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:30.0553|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:07:47.3999|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:08:02.3883|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:08:02.3946|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:08:17.1597|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:08:54.0634|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:09.1302|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:19.9826|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:23.9999|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:27.8908|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:27.9019|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:29.1434|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:29.1542|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:29.5740|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:32.8474|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:32.8518|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:35.4609|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:35.4742|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:37.6846|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:37.6886|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:38.7001|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:38.7038|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:09:46.2109|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:11:13.8512|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:11:20.1363|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:11:28.2908|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:16:40.6060|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-03 09:16:40.6505|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-03 09:20:15.0213|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:31:46.6630|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:32:19.8386|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:33:35.2547|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-03 09:33:36.0418|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 09:33:38.6485|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 09:33:39.7835|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 09:33:39.7965|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 09:33:39.8002|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-04-03 09:33:39.8037|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 09:33:39.8064|INFO|CheckForUpdates|SIDELOAD: Update found.
+2023-04-03 09:33:39.8093|INFO|CheckForUpdates|SIDELOAD: Starting background download.
+2023-04-03 09:33:46.9988|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-03 09:33:51.9013|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:33:51.9058|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:33:58.6272|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:33:58.6356|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:00.9512|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:01.0261|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-04-03 09:34:01.0546|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:01.0587|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:03.8286|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:04.8816|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:04.8853|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:06.3970|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:06.5167|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:07.8175|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:09.2442|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:09.2479|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:10.8344|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:10.8398|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:11.5713|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:11.5754|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:12.2593|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:12.2624|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:17.4839|INFO|OnLaunched|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-03 09:34:18.2077|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 09:34:18.2863|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-04-03 09:34:18.3354|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 09:34:25.6355|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 09:34:26.2139|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-03 09:34:26.6656|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 09:34:26.6864|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 09:34:26.6948|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.59.0
+2023-04-03 09:34:26.7009|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 09:34:26.7061|INFO|CheckForUpdates|SIDELOAD: Update found.
+2023-04-03 09:34:26.7102|INFO|CheckForUpdates|SIDELOAD: Starting background download.
+2023-04-03 09:34:26.8589|ERROR|StartBackgroundDownload|The process cannot access the file 'C:\Users\jast\AppData\Local\Packages\FilesPreview_wvne1zexy08sa\LocalState\UpdatePackage.msix' because it is being used by another process.
+	System.IO.IOException: The process cannot access the file 'C:\Users\jast\AppData\Local\Packages\FilesPreview_wvne1zexy08sa\LocalState\UpdatePackage.msix' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at Files.App.ServicesImplementation.SideloadUpdateService.StartBackgroundDownload()
+   at Files.App.ServicesImplementation.SideloadUpdateService.StartBackgroundDownload()
+2023-04-03 09:34:39.8632|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:39.8711|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:46.5747|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:34:52.1814|ERROR|AppUnhandledException|Catastrophic failure (0x8000FFFF (E_UNEXPECTED))
+	System.Runtime.InteropServices.COMException (0x8000FFFF): Catastrophic failure (0x8000FFFF (E_UNEXPECTED))
+2023-04-03 09:35:06.1998|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-03 09:35:06.2186|INFO|OnLaunched|App launched. Launch args type: ToastNotificationActivatedEventArgs
+2023-04-03 09:35:10.7784|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 09:35:10.7870|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-03 09:35:10.8181|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-04-03 09:35:10.8254|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-04-03 09:35:10.8470|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 09:35:10.8572|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-03 09:35:14.5019|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 09:35:14.6819|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-03 09:35:15.6230|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 09:35:15.8585|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-03 09:35:15.9734|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 09:35:15.9761|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.60.0
+2023-04-03 09:35:15.9789|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 09:35:15.9822|WARN|CheckForUpdates|SIDELOAD: Update not found.
+2023-04-03 09:35:15.9884|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-03 09:35:15.9934|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.60.0
+2023-04-03 09:35:15.9968|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-03 09:35:16.0006|WARN|CheckForUpdates|SIDELOAD: Update not found.
+2023-04-03 09:35:16.0428|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-03 09:35:17.6567|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:20.1316|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:20.1416|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:21.0672|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:21.1538|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:22.4533|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:23.4520|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:23.4617|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:24.9651|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:24.9691|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:29.6715|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:32.1702|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:34.4935|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:34.5044|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:36.6304|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:36.6382|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:36.8252|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 09:35:37.2889|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:17:21.2503|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:42.3927|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:42.3970|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:43.6516|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:43.6571|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:44.7848|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:44.7901|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:45.1950|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:23:45.3617|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:53.2171|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:54.4779|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:54.4874|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:54.8653|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:54.8713|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:56.2942|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:56.2974|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:57.0598|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:57.0694|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:58.6955|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:59.4407|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:59.4513|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:59.8657|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:29:59.8754|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:01.4319|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:03.4191|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:03.4231|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:06.8378|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:06.8487|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:08.6288|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:10.0196|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:10.0311|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:10.9069|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:10.9183|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:11.8466|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:11.8510|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:14.3041|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:14.3159|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:14.5052|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:15.2779|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:30:16.3057|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:30.8112|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:32.1918|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:32.2020|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:34.6717|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:34.6756|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:36.0389|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:36.0509|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:37.9815|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:37.9931|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:38.1690|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 10:57:38.5709|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:34.6977|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:34.7026|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:41.1224|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:42.4082|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:42.4142|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:45.8037|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:45.8072|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:00:54.5690|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:01:31.9602|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:01:32.2109|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:01:55.0760|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:02:46.9577|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:02:54.6031|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:02:56.5122|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:03:02.4454|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:03:07.4734|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:03:11.4403|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:03:16.7698|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:04:10.9298|INFO|OnActivated|App activated. Activated args type: ProtocolActivatedEventArgs
+2023-04-03 11:04:31.5466|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:04:33.2152|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:04:58.4557|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:04:58.4627|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:09.4534|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:09.4653|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:10.0919|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:10.3085|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:10.5376|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:41.7259|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:49.7593|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:49.7657|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:05:53.9762|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:41.9980|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:42.0087|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:43.8713|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:45.0482|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:45.0520|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:45.5123|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:45.5231|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:47.3205|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:48.0376|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:48.0466|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:51.5065|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:51.5103|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:52.9648|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:52.9746|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:54.0364|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:54.0492|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:06:58.3671|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:09:32.3443|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:15:55.7683|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:15:56.1330|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:15:58.4289|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:21:55.8245|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:21:56.0624|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:34.4051|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:37.8265|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:37.8356|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:39.1113|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:40.5886|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:43.4012|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:43.4049|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:45.1583|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:45.1663|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:46.1120|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:46.1226|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:48.7717|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:48.7752|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:49.8715|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:49.8837|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:50.0514|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 11:56:50.5518|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 12:25:18.1523|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 12:25:18.1567|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 12:25:18.7943|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 12:25:18.8073|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-03 12:25:19.5407|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 07:36:19.9514|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-04 07:36:31.2513|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-04 07:36:31.3741|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-04-04 07:36:31.5861|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-04 07:36:44.8706|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-04 07:36:48.1417|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-04 07:36:48.1494|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-04 07:36:48.1564|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.60.0
+2023-04-04 07:36:48.1633|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.60.0
+2023-04-04 07:36:48.1815|WARN|CheckForUpdates|SIDELOAD: Update not found.
+2023-04-04 08:01:33.8111|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-04 08:01:43.8780|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:01:43.8843|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:01:46.4225|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:01:46.4365|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:01:46.6637|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:01:48.4283|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:07.6338|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:07.6410|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:34.2517|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:34.2644|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:35.4210|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:35.4317|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:36.3820|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:36.3872|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:37.4139|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:37.4224|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:42.7794|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:43.0467|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:48.8922|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:48.9180|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:49.6585|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:49.9470|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:49.9604|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:02:50.2192|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:46.7169|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:46.7221|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:47.8533|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:47.8701|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:50.6260|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:50.6458|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:52.8115|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:56.2018|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:57.8385|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:57.8547|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:59.6254|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:19:59.6430|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:00.8554|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:00.8652|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:02.3041|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:02.3501|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:03.3767|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:03.3859|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:03.5927|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:20:04.5948|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:29:58.4941|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:29:58.4986|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:29:59.7259|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:29:59.9855|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 08:30:02.6984|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:23.1043|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:26.4441|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:29.1759|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:33.0688|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:33.0727|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:34.2718|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:34.2872|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:35.7813|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:35.7971|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:38.0641|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:38.0677|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:38.2551|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:39.0738|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 09:06:42.1077|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 10:06:18.2348|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-04 10:07:26.3424|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-04 10:36:25.8805|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-04 10:36:35.0449|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-04 11:05:58.5419|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:21.5725|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:23.3572|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:23.8104|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:24.7371|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:24.7516|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:25.4122|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:25.4280|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:25.6004|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:33.6792|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:33.6838|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:34.5610|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:34.7476|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:35.4860|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:40.2781|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:40.2890|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:40.4483|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 14:10:41.3918|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 15:42:15.2729|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 15:42:15.2770|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 15:42:15.4476|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 15:42:21.1146|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 15:44:48.5590|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:11:03.0668|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:11:03.7504|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:11:11.2640|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:11:11.4562|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:11:12.3149|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:09.8140|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:10.1794|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:28.2260|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:28.7884|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:30.8894|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:30.8974|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:31.1838|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-04 16:32:31.8887|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:43:56.7171|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-05 07:44:04.5166|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-04-05 07:44:04.6495|INFO|GetDrivesAsync|Drive added: Z:\, Network
+2023-04-05 07:44:12.9722|INFO|CheckForUpdates|SIDELOAD: Checking for updates...
+2023-04-05 07:44:13.8776|INFO|CheckForUpdates|SIDELOAD: Current Package Name: FilesPreview
+2023-04-05 07:44:13.9048|INFO|CheckForUpdates|SIDELOAD: Remote Package Name: FilesPreview
+2023-04-05 07:44:13.9101|INFO|CheckForUpdates|SIDELOAD: Current Version: 2.4.60.0
+2023-04-05 07:44:13.9155|INFO|CheckForUpdates|SIDELOAD: Remote Version: 2.4.61.0
+2023-04-05 07:44:13.9208|INFO|CheckForUpdates|SIDELOAD: Update found.
+2023-04-05 07:44:13.9264|INFO|CheckForUpdates|SIDELOAD: Starting background download.
+2023-04-05 07:45:17.2329|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-05 07:46:35.3112|INFO|StartBackgroundDownload|Download time taken: 00:02:21
+2023-04-05 07:52:26.5876|INFO|IsRunningOnArm|Running on ARM: False
+2023-04-05 07:52:32.1474|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:32.1567|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:32.3478|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:32.5868|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:34.3308|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:34.3363|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:34.5032|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:36.4092|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:36.4126|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:37.4365|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:37.4425|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:37.6880|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:39.2158|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:41.1285|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:43.4319|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:44.2692|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:44.2812|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:46.3001|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 07:52:46.9086|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:31.0733|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:31.0771|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:32.1648|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:32.1741|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:32.4957|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:32.4989|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:33.5243|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:33.5363|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:34.0191|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:34.0268|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:36.4265|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:36.4326|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:36.6223|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 08:01:46.8147|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 11:43:30.4118|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 13:44:42.1028|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-05 13:47:15.3391|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-05 13:54:39.9815|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 13:56:03.8769|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 13:58:49.2096|INFO|OnDeviceAdded|Drive added from fulltrust process: D:\, Fixed
+2023-04-05 14:03:00.7004|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:01.5562|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:01.5629|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:02.7150|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:02.7214|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:05.5005|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:05.5056|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:05.7351|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:07.0037|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:08.6926|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:03:08.7143|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:04:08.1415|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:04:08.1662|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:51.0369|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:51.0430|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:53.7152|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:55.8800|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:55.8855|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:09:57.7919|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:00.4223|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:00.4263|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:00.7187|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:01.5372|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:32.9467|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:53.7476|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:55.8884|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:55.8948|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:58.4019|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:58.4060|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:58.5683|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:10:59.5937|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:11:07.3816|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:35.9498|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:36.8973|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:43.0676|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:43.0831|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:51.0904|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:54.3588|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:56.0143|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:56.0299|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:13:56.9735|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:05.2243|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:05.2285|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:06.5738|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:06.5779|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:07.8060|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:07.8796|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:07.8834|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:09.9577|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:12.8908|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:24.0762|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:27.3377|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:27.3417|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:47.4581|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:48.0230|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:14:59.2391|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:15:27.5233|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:15:27.5410|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:15:42.1932|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:15:42.4342|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:23:46.8175|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:23:46.8236|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:33.1114|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:33.1197|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:33.8881|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:33.8945|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:36.5996|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:37.3410|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:37.3456|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:38.7647|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:38.7692|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:41.4089|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:42.0334|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:42.0387|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:42.9709|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:42.9792|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:46.1111|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:46.6926|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:46.6960|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:48.8016|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:48.8082|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:50.0915|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:50.0964|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:50.7533|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:50.7569|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:51.5627|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:51.5695|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:54.0500|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:54.0570|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:54.9275|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:54.9342|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:55.6392|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:55.6445|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:27:56.8802|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:28:39.1244|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:28:41.1476|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:29:26.6044|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:06.9763|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:07.4756|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:10.3081|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:11.5886|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:11.5949|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:12.9731|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:19.9382|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:22.3385|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:54.8488|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:55.4861|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:55.4907|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:55.6831|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:57.8036|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:58.2716|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:58.4799|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:30:59.5364|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:02.3253|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:16.2293|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:16.2325|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:22.3246|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:22.3281|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:24.0877|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:24.0923|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:38.6367|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:38.6415|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:41.8551|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:41.8586|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:45.6810|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:45.6843|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:46.1909|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:46.1965|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:52.1390|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:52.1449|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:55.0694|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:55.0727|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:57.9724|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:31:57.9762|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:32:05.3793|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:32:14.1053|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:43:05.0101|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:43:33.7221|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:43:33.7281|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:43:42.7745|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:43:46.9582|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:05.6831|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:06.0575|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:09.2778|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:09.2976|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:49.9212|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:44:55.1614|INFO|IgnoreExceptions|Could not list processes locking resource. Failed to get size of result.
+	System.Exception: Could not list processes locking resource. Failed to get size of result.
+   at Files.App.Helpers.FileUtils.WhoIsLocking(String[] resources)
+   at Files.Shared.Extensions.SafetyExtensions.IgnoreExceptions[T](Func`1 action, ILogger logger)
+2023-04-05 14:45:20.3572|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:20.5168|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:21.5897|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:25.5953|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:25.6003|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:26.2769|INFO|DetectQuickLookAvailability|QuickLook detected: True
+2023-04-05 14:45:35.8037|ERROR|AppUnhandledException|An async operation was not properly started. (0x80000019)
+	System.Runtime.InteropServices.COMException (0x80000019): An async operation was not properly started. (0x80000019)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at ABI.Microsoft.UI.Xaml.Controls.IContentDialogMethods.ShowAsync(IObjectReference _obj)
+   at Files.App.Dialogs.FilesystemOperationDialog.ShowAsync()
+   at Files.App.Filesystem.FilesystemHelpers.DeleteItemsAsync(IEnumerable`1 source, DeleteConfirmationPolicies showDialog, Boolean permanently, Boolean registerHistory)
+   at Files.App.Actions.DeleteItemAction.ExecuteAsync()
+   at Files.App.Commands.CommandManager.ActionCommand.ExecuteAsync()
+   at Files.App.Commands.CommandManager.ActionCommand.Execute(Object parameter)
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at Microsoft.UI.Dispatching.DispatcherQueueSynchronizationContext.<>c__DisplayClass2_0.<Post>b__0()
+--- End of stack trace from previous location ---
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at ABI.Windows.ApplicationModel.Core.IUnhandledErrorMethods.Propagate(IObjectReference _obj)
+   at Microsoft.AppCenter.Utils.ApplicationLifecycleHelperWinUI.<.ctor>b__0_3(Object sender, UnhandledErrorDetectedEventArgs eventArgs)
+--- End of stack trace from previous location ---
+   at Microsoft.AppCenter.Utils.ApplicationLifecycleHelperWinUI.<.ctor>b__0_3(Object sender, UnhandledErrorDetectedEventArgs eventArgs)
+   at ABI.System.EventHandler`1.Do_Abi_Invoke[TAbi](Void* thisPtr, IntPtr sender, TAbi args)2023-04-05 14:46:00.5584|Information|App launched. Launch args type: ProtocolActivatedEventArgs

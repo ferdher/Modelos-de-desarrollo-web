@@ -1,0 +1,842 @@
+
+2022-11-12 15:30:13.3782|INFO|OnLaunched|App launched. Prelaunch: False
+2022-11-12 15:30:13.8961|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2022-11-12 15:30:13.9375|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2022-11-12 15:30:13.9595|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2022-11-12 15:30:16.4572|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud" mapped to C:\Users\stotk\iCloudDrive
+2022-11-12 15:30:16.7404|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2022-11-12 15:30:17.8495|INFO|CheckForUpdates|STORE: Checking for updates...
+2022-11-12 15:30:21.9338|INFO|CheckForUpdates|STORE: Update found.
+2022-11-12 15:31:22.9852|INFO|OnLaunched|App launched. Prelaunch: False
+2022-11-12 15:31:23.3664|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2022-11-12 15:31:23.4065|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2022-11-12 15:31:23.4417|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2022-11-12 15:31:23.7206|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud" mapped to C:\Users\stotk\iCloudDrive
+2022-11-12 15:31:23.7749|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2022-11-12 15:31:24.9715|INFO|CheckForUpdates|STORE: Checking for updates...
+2022-11-12 15:35:41.4289|INFO|IsRunningOnArm|Running on ARM: False
+2022-12-01 07:45:04.6954|INFO|OnLaunched|App launched. Prelaunch: False
+2022-12-01 07:45:05.1067|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2022-12-01 07:45:05.1847|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2022-12-01 07:45:05.2347|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2022-12-01 07:45:07.5953|WARN|SendMessageForResponseAsync|Error sending request on pipe.
+	System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0xad
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at Files.Uwp.Helpers.NamedPipeAsAppServiceConnection.<SendMessageForResponseAsync>d__11.MoveNext() + 0x24d
+
+2022-12-01 07:45:07.5973|WARN|SendMessageForResponseAsync|Error sending request on pipe.
+	System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0xad
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at Files.Uwp.Helpers.NamedPipeAsAppServiceConnection.<SendMessageForResponseAsync>d__11.MoveNext() + 0x24d
+
+2022-12-01 07:45:07.5983|WARN|SendMessageForResponseAsync|Error sending request on pipe.
+	System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0xad
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at Files.Uwp.Helpers.NamedPipeAsAppServiceConnection.<SendMessageForResponseAsync>d__11.MoveNext() + 0x24d
+
+2022-12-01 07:45:07.6393|WARN|SendMessageForResponseAsync|Error sending request on pipe.
+	System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task) + 0xad
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task) + 0x38
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task) + 0x17
+   at Files.Uwp.Helpers.NamedPipeAsAppServiceConnection.<SendMessageForResponseAsync>d__11.MoveNext() + 0x24d
+
+2023-02-12 18:50:19.9549|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-02-12 18:50:20.4801|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-02-12 18:50:20.5085|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-02-12 18:50:20.5141|INFO|UpdateDrivesAsync|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-02-12 18:50:20.5216|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2023-02-12 18:50:21.3775|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-02-12 18:50:21.4537|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-02-21 12:02:05.2128|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-02-21 12:02:05.7912|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-02-21 12:02:05.8350|INFO|UpdateDrivesAsync|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-02-21 12:02:05.8373|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-02-21 12:02:05.8569|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2023-02-21 12:02:06.6365|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-02-21 12:02:06.7203|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-03-29 11:05:37.5101|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-03-29 11:05:38.0686|INFO|UpdateDrivesAsync|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-03-29 11:05:38.1009|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-03-29 11:05:38.1317|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-03-29 11:05:38.1507|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2023-03-29 11:05:38.8733|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-03-29 11:05:38.9334|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-03-29 11:05:39.9966|INFO|CheckForUpdates|STORE: Checking for updates...
+2023-03-29 11:06:32.2729|WARN|ListRecentFoldersAsync|The system cannot find the drive specified.
+	System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:32.3511|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:32.3976|WARN|ListRecentFoldersAsync|This operation returned because the timeout period expired. (0x800705B4)
+	System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.7105|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.7357|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.7632|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.7950|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.8191|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.9109|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.9398|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.9705|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:33.9867|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0068|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0201|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0432|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0689|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0839|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.0968|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.1091|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.1228|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.1783|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.3538|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.5993|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.6136|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:06:34.6892|WARN|ListRecentFoldersAsync|The system cannot find the drive specified.
+	System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:07:36.5935|INFO|IsRunningOnArm|Running on ARM: False
+2023-03-29 11:09:49.0255|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:49.6095|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:49.7982|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.0601|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.1851|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.3562|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.5285|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.7130|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:09:50.8651|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:10:34.4261|WARN|ListRecentFoldersAsync|The system cannot find the drive specified.
+	System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:35.7239|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.0394|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.0518|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.1189|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.1576|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.3126|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.3333|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.3562|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.4065|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.4324|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.4604|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.5297|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.5620|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6389|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6491|WARN|ListRecentFoldersAsync|The system cannot find the drive specified.
+	System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6587|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6663|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6730|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6796|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6855|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6915|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:10:36.6977|WARN|ListRecentFoldersAsync|Error HRESULT E_FAIL has been returned from a call to a COM component.
+	System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-03-29 11:11:58.0488|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:11:58.5023|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:11:58.7407|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:11:58.9388|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:11:59.6236|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:12:01.4205|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:12:02.3235|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:12:02.5911|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 11:12:02.7640|INFO|DetectQuickLookAvailability|QuickLook detected: False
+2023-03-29 14:51:57.9215|INFO|OnLaunched|App launched. Launch args type: LaunchActivatedEventArgs
+2023-03-29 14:51:58.4324|INFO|UpdateDrivesAsync|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-03-29 14:51:58.4986|INFO|GetDrivesAsync|Drive added: C:\, Fixed
+2023-03-29 14:51:58.5789|INFO|GetDrivesAsync|Drive added: D:\, Fixed
+2023-03-29 14:51:58.5942|INFO|GetDrivesAsync|Drive added: E:\, Fixed
+2023-03-29 14:51:59.2515|INFO|UpdateDrivesAsync|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-03-29 14:51:59.3194|INFO|UpdateDrivesAsync|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-03-29 14:52:00.2160|INFO|CheckForUpdates|STORE: Checking for updates...
+2023-03-29 14:52:48.4239|INFO|IsRunningOnArm|Running on ARM: False2023-04-21 12:24:59.3958|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-21 12:24:59.9237|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-21 12:24:59.9428|Information|Drive added: C:\, Fixed
+2023-04-21 12:24:59.9751|Information|Drive added: D:\, Fixed
+2023-04-21 12:24:59.9994|Information|Drive added: E:\, Fixed
+2023-04-21 12:25:01.2087|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-21 12:25:01.2846|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-21 12:25:03.3442|Information|STORE: Checking for updates...
+2023-04-21 12:25:06.0990|Information|STORE: Update found.
+2023-04-21 12:25:16.4895|Information|Running on ARM: False
+2023-04-21 12:25:19.0390|Information|QuickLook not detected
+2023-04-21 12:26:16.8876|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-21 12:26:17.0965|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-21 12:26:17.8115|Information|Drive added: C:\, Fixed
+2023-04-21 12:26:17.8502|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-21 12:26:17.8921|Information|Drive added: D:\, Fixed
+2023-04-21 12:26:17.9271|Information|Drive added: E:\, Fixed
+2023-04-21 12:26:17.9309|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-21 12:26:19.3842|Information|STORE: Checking for updates...
+2023-04-21 12:27:24.2430|Information|Running on ARM: False
+2023-04-21 12:36:05.9087|Information|QuickLook not detected
+2023-04-21 12:43:14.8000|Error|System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Files.App.Views.LayoutModes.GridViewBrowser.GridViewBrowser_obj13_Bindings.GridViewBrowser_obj13_BindingsTracking.PropertyChanged_(Object sender, PropertyChangedEventArgs e)
+   at Files.App.Filesystem.ListedItem.set_FileTags(String[] value)
+   at Files.App.Views.LayoutModes.DetailsLayoutBrowser.TagIcon_Tapped(Object sender, TappedRoutedEventArgs e)
+   at ABI.Microsoft.UI.Xaml.Input.TappedEventHandler.Do_Abi_Invoke(IntPtr thisPtr, IntPtr sender, IntPtr e)
+--- End of stack trace from previous location ---
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at ABI.Windows.ApplicationModel.Core.IUnhandledErrorMethods.Propagate(IObjectReference _obj)
+   at Microsoft.AppCenter.Utils.ApplicationLifecycleHelperWinUI.<.ctor>b__0_3(Object sender, UnhandledErrorDetectedEventArgs eventArgs)
+--- End of stack trace from previous location ---
+   at Microsoft.AppCenter.Utils.ApplicationLifecycleHelperWinUI.<.ctor>b__0_3(Object sender, UnhandledErrorDetectedEventArgs eventArgs)
+   at ABI.System.EventHandler`1.Do_Abi_Invoke[TAbi](Void* thisPtr, IntPtr sender, TAbi args)
+2023-04-21 12:43:15.5444|Information|App launched. Launch args type: ProtocolActivatedEventArgs
+2023-04-21 12:43:15.7932|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-21 12:43:16.6956|Information|Drive added: C:\, Fixed
+2023-04-21 12:43:16.7424|Information|Drive added: D:\, Fixed
+2023-04-21 12:43:16.7910|Information|Drive added: E:\, Fixed
+2023-04-21 12:43:16.9007|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-21 12:43:17.0075|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-21 12:43:17.6164|Information|Running on ARM: False
+2023-04-21 12:43:18.8044|Information|STORE: Checking for updates...
+2023-04-21 12:44:03.6013|Information|QuickLook not detected
+2023-04-21 12:44:19.1339|Information|QuickLook not detected
+2023-04-21 12:45:46.9296|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.HRESULT.ThrowIfFailed(String message)
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:46.9784|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Vanara.Windows.Shell.ShellLink..ctor(String linkFile, LinkResolution resolveFlags, HWND window, TimeSpan timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.4325|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.4352|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.4541|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.4885|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.5200|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.5267|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.5508|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.7428|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:49.7985|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:50.5402|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:50.6844|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:50.7816|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.0053|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.0742|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.0836|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1094|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1190|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1270|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1276|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1439|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1451|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-21 12:45:51.1637|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-04-26 11:11:16.1693|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-26 11:11:16.4118|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-26 11:11:17.2896|Information|Drive added: C:\, Fixed
+2023-04-26 11:11:17.3330|Information|Drive added: D:\, Fixed
+2023-04-26 11:11:17.3446|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-26 11:11:17.3705|Information|Drive added: E:\, Fixed
+2023-04-26 11:11:17.7501|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-26 11:11:19.0113|Information|STORE: Checking for updates...
+2023-04-26 11:11:22.5132|Information|Running on ARM: False
+2023-04-26 11:11:27.1159|Information|STORE: Update found.
+2023-04-26 11:11:47.3007|Information|QuickLook not detected
+2023-04-26 11:11:48.3408|Information|QuickLook not detected
+2023-04-26 11:12:15.5147|Information|QuickLook not detected
+2023-04-26 11:12:17.0042|Information|QuickLook not detected
+2023-04-26 11:12:17.4101|Information|QuickLook not detected
+2023-04-26 11:13:49.4390|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-26 11:13:49.6293|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-26 11:13:50.2831|Information|Drive added: C:\, Fixed
+2023-04-26 11:13:50.3192|Information|Drive added: D:\, Fixed
+2023-04-26 11:13:50.3240|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-26 11:13:50.3636|Information|Drive added: E:\, Fixed
+2023-04-26 11:13:50.5152|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-26 11:13:53.6193|Information|STORE: Checking for updates...
+2023-04-26 11:13:55.0147|Information|Running on ARM: False
+2023-04-26 12:13:19.3326|Information|QuickLook not detected
+2023-04-26 12:14:31.5701|Information|QuickLook not detected
+2023-04-26 12:44:06.9330|Information|QuickLook not detected
+2023-04-27 09:03:31.6005|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-27 09:03:31.8488|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-27 09:03:32.6504|Information|Drive added: C:\, Fixed
+2023-04-27 09:03:32.6881|Information|Drive added: D:\, Fixed
+2023-04-27 09:03:32.6948|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-27 09:03:32.7397|Information|Drive added: E:\, Fixed
+2023-04-27 09:03:33.1352|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-27 09:03:34.3248|Information|STORE: Checking for updates...
+2023-04-27 09:29:45.8191|Information|Running on ARM: False
+2023-04-28 07:52:27.4334|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-28 07:52:27.8614|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-28 07:52:29.1311|Information|Drive added: C:\, Fixed
+2023-04-28 07:52:29.1844|Information|Drive added: D:\, Fixed
+2023-04-28 07:52:29.2151|Information|Drive added: E:\, Fixed
+2023-04-28 07:52:29.2221|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-28 07:52:29.8731|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-28 07:52:33.3904|Information|STORE: Checking for updates...
+2023-04-28 07:52:35.4466|Information|STORE: Update found.
+2023-04-28 11:21:48.2017|Information|Running on ARM: False
+2023-04-28 11:27:48.2139|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-28 11:27:48.3953|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-28 11:27:48.9934|Information|Drive added: C:\, Fixed
+2023-04-28 11:27:49.0206|Information|Drive added: D:\, Fixed
+2023-04-28 11:27:49.0559|Information|Drive added: E:\, Fixed
+2023-04-28 11:27:49.0613|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-28 11:27:49.3871|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-28 11:27:52.2770|Information|STORE: Checking for updates...
+2023-04-28 15:15:03.0828|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-28 15:15:03.5317|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-28 15:15:04.9797|Information|Drive added: C:\, Fixed
+2023-04-28 15:15:05.0510|Information|Drive added: D:\, Fixed
+2023-04-28 15:15:05.0865|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-28 15:15:05.1467|Information|Drive added: E:\, Fixed
+2023-04-28 15:15:05.7281|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-28 15:15:07.2012|Information|STORE: Checking for updates...
+2023-04-28 15:45:56.7459|Information|Running on ARM: False
+2023-04-29 09:14:01.1547|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-29 09:14:01.4463|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-29 09:14:02.4139|Information|Drive added: C:\, Fixed
+2023-04-29 09:14:02.4580|Information|Drive added: D:\, Fixed
+2023-04-29 09:14:02.4604|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-29 09:14:02.5084|Information|Drive added: E:\, Fixed
+2023-04-29 09:14:02.8074|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-29 09:14:05.3159|Information|STORE: Checking for updates...
+2023-04-29 10:47:30.7568|Information|Running on ARM: False
+2023-04-29 13:11:43.0738|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-04-29 13:11:43.6330|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-04-29 13:11:45.0143|Information|Drive added: C:\, Fixed
+2023-04-29 13:11:45.0773|Information|Drive added: D:\, Fixed
+2023-04-29 13:11:45.0821|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-04-29 13:11:45.1347|Information|Drive added: E:\, Fixed
+2023-04-29 13:11:45.4951|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-04-29 13:11:48.0932|Information|STORE: Checking for updates...
+2023-04-29 13:20:05.0811|Information|Running on ARM: False
+2023-05-03 09:07:01.2542|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-03 09:07:01.4874|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-03 09:07:02.2276|Information|Drive added: C:\, Fixed
+2023-05-03 09:07:02.2561|Information|Drive added: D:\, Fixed
+2023-05-03 09:07:02.2621|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-03 09:07:02.3022|Information|Drive added: E:\, Fixed
+2023-05-03 09:07:02.4480|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-03 09:07:03.8945|Information|STORE: Checking for updates...
+2023-05-03 09:07:04.4714|Information|Running on ARM: False
+2023-05-03 21:55:13.8628|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-03 21:55:14.0365|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-03 21:55:14.5317|Information|Drive added: C:\, Fixed
+2023-05-03 21:55:14.9088|Information|Drive added: D:\, Fixed
+2023-05-03 21:55:14.9421|Information|Drive added: E:\, Fixed
+2023-05-03 21:55:14.9462|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-03 21:55:15.2441|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-03 21:55:16.6208|Information|STORE: Checking for updates...
+2023-05-03 21:55:21.6987|Information|Running on ARM: False
+2023-05-04 07:22:56.9956|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-04 07:22:57.3007|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-04 07:22:58.7870|Information|Drive added: C:\, Fixed
+2023-05-04 07:22:58.8372|Information|Drive added: D:\, Fixed
+2023-05-04 07:22:58.8411|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-04 07:22:58.8892|Information|Drive added: E:\, Fixed
+2023-05-04 07:22:59.2956|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-04 07:23:00.8194|Information|STORE: Checking for updates...
+2023-05-04 08:05:12.7222|Information|Running on ARM: False
+2023-05-04 16:56:51.8655|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-04 16:56:52.0966|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-04 16:56:53.6483|Information|Drive added: C:\, Fixed
+2023-05-04 16:56:53.7175|Information|Drive added: D:\, Fixed
+2023-05-04 16:56:53.7292|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-04 16:56:53.8249|Information|Drive added: E:\, Fixed
+2023-05-04 16:56:54.3804|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-04 16:56:56.1326|Information|STORE: Checking for updates...
+2023-05-04 20:05:30.3043|Information|Running on ARM: False
+2023-05-05 08:58:51.7110|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-05 08:58:51.9255|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-05 08:58:53.0124|Information|Drive added: C:\, Fixed
+2023-05-05 08:58:53.0547|Information|Drive added: D:\, Fixed
+2023-05-05 08:58:53.0598|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-05 08:58:53.1050|Information|Drive added: E:\, Fixed
+2023-05-05 08:58:53.3329|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-05 08:58:54.7676|Information|STORE: Checking for updates...
+2023-05-05 10:06:33.0141|Information|Running on ARM: False
+2023-05-15 10:09:41.3821|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-15 10:09:41.6229|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-15 10:09:42.5505|Information|Drive added: C:\, Fixed
+2023-05-15 10:09:42.5989|Information|Drive added: D:\, Fixed
+2023-05-15 10:09:42.6033|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-15 10:09:42.6438|Information|Drive added: E:\, Fixed
+2023-05-15 10:09:42.9195|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-15 10:09:46.3492|Information|STORE: Checking for updates...
+2023-05-15 10:30:26.2382|Information|Running on ARM: False
+2023-05-17 09:30:51.7813|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-17 09:30:51.9944|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-17 09:30:52.8829|Information|Drive added: C:\, Fixed
+2023-05-17 09:30:52.9178|Information|Drive added: D:\, Fixed
+2023-05-17 09:30:52.9310|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-17 09:30:52.9485|Information|Drive added: E:\, Fixed
+2023-05-17 09:30:53.2173|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-17 09:30:54.5957|Information|STORE: Checking for updates...
+2023-05-17 09:30:55.5005|Information|Running on ARM: False
+2023-05-17 09:31:09.1994|Information|STORE: Update found.
+2023-05-17 09:53:01.8187|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-05-17 09:53:01.9516|Information|Adding cloud provider "Creative Cloud Files" mapped to C:\Users\stotk\Creative Cloud Files
+2023-05-17 09:53:02.5418|Information|Adding cloud provider "iCloud Drive" mapped to C:\Users\stotk\iCloudDrive
+2023-05-17 09:53:02.5642|Information|Drive added: C:\, Fixed
+2023-05-17 09:53:02.5801|Information|Adding cloud provider "OneDrive" mapped to C:\Users\stotk\OneDrive
+2023-05-17 09:53:02.5948|Information|Drive added: D:\, Fixed
+2023-05-17 09:53:02.6277|Information|Drive added: E:\, Fixed
+2023-05-17 09:53:03.8912|Information|STORE: Checking for updates...
+2023-05-17 09:53:04.1306|Information|Running on ARM: False
+2023-05-17 09:57:31.9255|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:31.9476|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:32.6180|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.3573|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.3748|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.4193|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.4296|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.4674|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.4789|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.4988|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.5124|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:33.6093|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0490|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0514|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0518|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0562|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0733|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0859|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.0903|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.1000|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.1347|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.1369|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.4477|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.4756|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 09:57:34.5128|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:30.2404|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:30.2432|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:30.8946|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.4755|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.4894|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.4927|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.5346|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.5369|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.5509|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.5861|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.5976|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.6021|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:31.7163|Warning|System.Runtime.InteropServices.COMException (0x800705B4): This operation returned because the timeout period expired. (0x800705B4)
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.1095|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.1371|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3110|Warning|System.ComponentModel.Win32Exception (15): The system cannot find the drive specified.
+   at Vanara.PInvoke.Shell32.ShellUtil.GetShellItemForPath(String path)
+   at Vanara.Windows.Shell.ShellLink.get_Target()
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3220|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3236|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3344|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3360|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3533|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3731|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3756|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.3838|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.4145|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
+2023-05-17 10:01:32.4351|Warning|System.Runtime.InteropServices.COMException (0x80004005): Error HRESULT E_FAIL has been returned from a call to a COM component.
+   at Vanara.PInvoke.Shell32.IShellLinkW.Resolve(HWND hwnd, SLR_FLAGS fFlags)
+   at Vanara.Windows.Shell.ShellLink.LoadAndResolve(String linkFile, SLR_FLAGS resolveFlags, HWND hWin, UInt16 timeOut)
+   at Files.App.Filesystem.RecentItems.<>c__DisplayClass14_1.<ListRecentFoldersAsync>b__2()
